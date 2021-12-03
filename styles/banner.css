@@ -1,0 +1,23 @@
+.banner	{
+	background-image: url(../images/zamal.jpg);
+	height: 65vh;
+	background-size:cover;
+	background-position:center;
+}
+.banner h1{
+	margin:0;
+	color:white;
+}
+.banner h2{
+	background-color:black;
+	color:white;
+	margin-bottom:40px;
+	padding:16px;
+}
+.button{
+	margin-top:24px;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
